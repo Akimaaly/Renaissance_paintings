@@ -1,0 +1,1 @@
+export const GET_ALL_PAINTINGS = 'GET_ALL_PAINTINGS';
